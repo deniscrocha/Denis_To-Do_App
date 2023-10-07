@@ -3,26 +3,26 @@ Bem-vindo ao meu primeiro aplicativo de lista de tarefas! Com este aplicativo si
 
 ## Recursos Principais
 
-### Adicionar Nova Tarefa
+## Adicionar Nova Tarefa
 Para adicionar uma nova tarefa à sua lista, siga estas etapas:
 
 Digite o conteúdo da tarefa no campo de entrada.
 Clique no botão "Adicionar Tarefa".
 
-###Editar Tarefa
+## Editar Tarefa
 Se precisar fazer alterações em uma tarefa existente, siga estas instruções:
 
 Dê um duplo clique na tarefa que deseja editar.
 Faça as alterações desejadas nos campos de edição que aparecerão.
 Clique no botão "Editar Tarefa" para salvar as alterações.
 
-###Excluir Tarefa
+## Excluir Tarefa
 Para remover uma tarefa da sua lista, siga estas etapas:
 
 Dê um duplo clique na tarefa que deseja excluir.
 Clique no botão "Excluir Tarefa" para confirmar a exclusão.
 
-###Concluir Tarefa
+## Concluir Tarefa
 Marcar uma tarefa como concluída é fácil:
 
 Dê um duplo clique na tarefa que você deseja marcar como concluída.
